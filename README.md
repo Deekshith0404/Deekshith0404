@@ -1,5 +1,7 @@
 # My Coding Portfolio
 
+![Portfolio Banner](https://example.com/path-to-your-banner-image.jpg)
+
 Welcome to my coding portfolio! This repository showcases various projects and code samples that highlight my skills in HTML, CSS, Java, C, and C++. Feel free to explore and provide feedback.
 
 ## Table of Contents
@@ -19,6 +21,8 @@ Welcome to my coding portfolio! This repository showcases various projects and c
 #### [Responsive Website](https://github.com/yourusername/responsive-website)
 A fully responsive website built with HTML5 and CSS3. It demonstrates responsive design principles and modern web development practices.
 
+![Responsive Website Screenshot](https://example.com/path-to-screenshot.jpg)
+
 - **Technologies Used**: HTML, CSS
 - **Features**: Mobile-friendly, accessible, SEO optimized
 
@@ -26,6 +30,8 @@ A fully responsive website built with HTML5 and CSS3. It demonstrates responsive
 
 #### [Library Management System](https://github.com/yourusername/library-management-system)
 A Java application for managing library operations like book borrowing, returning, and user management.
+
+![Library Management System GIF](https://example.com/path-to-gif.gif)
 
 - **Technologies Used**: Java, JDBC, MySQL
 - **Features**: User authentication, book search, admin panel
@@ -35,6 +41,8 @@ A Java application for managing library operations like book borrowing, returnin
 #### [Basic Calculator](https://github.com/yourusername/basic-calculator)
 A command-line calculator implemented in C, capable of performing basic arithmetic operations.
 
+![Calculator Screenshot](https://example.com/path-to-calculator-screenshot.jpg)
+
 - **Technologies Used**: C
 - **Features**: Addition, subtraction, multiplication, division
 
@@ -42,6 +50,8 @@ A command-line calculator implemented in C, capable of performing basic arithmet
 
 #### [Student Management System](https://github.com/yourusername/student-management-system)
 A C++ application to manage student records, including adding, updating, and deleting student information.
+
+![Student Management System Screenshot](https://example.com/path-to-student-management-screenshot.jpg)
 
 - **Technologies Used**: C++
 - **Features**: CRUD operations, file handling
@@ -64,4 +74,3 @@ Feel free to reach out to me for collaboration or any questions:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 Thank you for visiting my portfolio!
-
