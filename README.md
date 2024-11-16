@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I Like To Learn More**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/deekshith-m-438b98331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" width="25px" heigth="25px"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
