@@ -2,10 +2,10 @@
 <h3 align="center">A passionate developer</h3>
 
 - 🌱 I’m currently learning **Java fullstack Develepment**
-
+  
 - 📫 How to reach me **deekshudeekshith39@gmail.com**
 
-- ⚡ Fun fact **I Like To Learn More**
+- ⚡ Fun fact : **I Like To Learn More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/deekshith-m-438b98331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" width="25px" heigth="25px"></a>
