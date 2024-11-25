@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deekshith M</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Java fullstack Develepment**
+- 🌱 I’m currently learning **Java fullstack Develepment*
   
 - 📫 How to reach me **deekshudeekshith39@gmail.com**
 
