@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java fullstack Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Expert;Database+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Java+fullstack+Developer;Spring+Boot+Expert;Database+Specialist;Clean+Coder" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,10 +41,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deekshith0404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith0404&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<!-- Alternative 1 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deekshith0404&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deekshith0404&theme=radical" />
+
 
 <br/>
 
